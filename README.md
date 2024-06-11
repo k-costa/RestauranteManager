@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Sabor Express é uma aplicação simples para gerenciar restaurantes. Você pode cadastrar novos restaurantes, listar os restaurantes existentes e alternar o estado (ativo/inativo) dos restaurantes. Este projeto foi desenvolvido em Python e utiliza o terminal para interação com o usuário.
+Restaurante Manager é uma aplicação simples para gerenciar restaurantes. Você pode cadastrar novos restaurantes, listar os restaurantes existentes e alternar o estado (ativo/inativo) dos restaurantes. Este projeto foi desenvolvido em Python e utiliza o terminal para interação com o usuário.
 
 ## Funcionalidades
 
@@ -75,4 +75,7 @@ Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICEN
 
 ## Contato
 
-E-mail - [k.accosta98@gmail.com](mailto:k.accosta98@gmail.com)
+<div> 
+  <a href="https://wa.me/5592992220069" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/k-ccosta/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+</div>
