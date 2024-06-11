@@ -8,7 +8,7 @@ restaurantes = [{'nome':'Pizza', 'categoria':'lanchonete', 'ativo':False},
 
 def exibir_nome_do_programa():
     print("""
-    𝕊𝕒𝕓𝕠𝕣 𝔼𝕩𝕡𝕣𝕖𝕤𝕤
+    ℝ𝕖𝕤𝕥𝕒𝕦𝕣𝕒𝕟𝕥𝕖 𝕄𝕒𝕟𝕒𝕘𝕖𝕣
     """)
 
 def exibir_opcoes():
